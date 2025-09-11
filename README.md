@@ -72,8 +72,8 @@ Model Comparison (ETH)
 
 🧠 Author
 
-Xiaochuan Li – MSc Financial Engineering – LinkedIn[https://www.linkedin.com/in/xiaochuan-li-finance/]
-
+**Xiaochuan Li**
+[LinkedIn](https://www.linkedin.com/in/xiaochuan-li-finance/) | [GitHub](https://github.com/xavierchuan)
 
 ⸻
 
