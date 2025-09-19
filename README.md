@@ -47,7 +47,7 @@ Options:
 	•	--output: Save plots and stats (optional)
 
 ⸻
-
+```
 🧪 Model Evaluation
 
 Each model output includes:
